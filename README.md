@@ -60,12 +60,6 @@ python main.py \
   --image_size 1024
 ```
 
-The best validation checkpoint is saved to:
-
-```text
-checkpoints/best_lmcf_net.pth
-```
-
 ## Testing
 
 ```bash
