@@ -95,14 +95,3 @@ LMCF-Net contains four main components:
 2. **Learnable Multi-scale Discrepancy Block (LMDB)** for stage-wise temporal discrepancy modeling.
 3. **Temporal Cross-Attention Fusion Module (TCFM)** for semantic-guided multi-scale discrepancy fusion.
 4. **Dynamic weak localization objective and BLM refinement** for spatially coherent localization.
-
-## Citation
-
-```bibtex
-@inproceedings{lmcfnet2026,
-  title     = {Weakly Supervised Lesion Localization in Longitudinal Mammograms via Discrepancy Modeling and Cross-Attention Fusion},
-  author    = {Afsana Ahsan Jeny and collaborators},
-  booktitle = {IEEE BIBM},
-  year      = {2026}
-}
-```
